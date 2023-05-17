@@ -1,0 +1,9 @@
+Command Line Follow (Completed 1): https://www.softcover.io/read/fc6c09de/unix_commands/basics#cid9
+webdesignrepo.com
+devdocs.io (API docu)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://www.w3schools.com/html/html_formatting.asp
+https://learn.shayhowe.com/html-css/
+https://internetingishard.netlify.app/html-and-css/index.html
+https://cbea.ms/git-commit/
+https://git-scm.com/book/en/v2
